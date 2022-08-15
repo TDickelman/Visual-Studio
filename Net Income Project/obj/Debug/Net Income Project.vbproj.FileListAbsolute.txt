@@ -1,0 +1,24 @@
+C:\My Documents\CLC\cit134\canvas\assignments\chapter_04\chapter_exercises\Net Income Solution\Net Income Project\bin\Debug\Net Income Project.exe
+C:\My Documents\CLC\cit134\canvas\assignments\chapter_04\chapter_exercises\Net Income Solution\Net Income Project\bin\Debug\Net Income Project.pdb
+C:\My Documents\CLC\cit134\canvas\assignments\chapter_04\chapter_exercises\Net Income Solution\Net Income Project\bin\Debug\Net Income Project.xml
+C:\My Documents\CLC\cit134\canvas\assignments\chapter_04\chapter_exercises\Net Income Solution\Net Income Project\obj\Debug\Net Income Project.vbproj.AssemblyReference.cache
+C:\My Documents\CLC\cit134\canvas\assignments\chapter_04\chapter_exercises\Net Income Solution\Net Income Project\obj\Debug\Net_Income_Project.Form1.resources
+C:\My Documents\CLC\cit134\canvas\assignments\chapter_04\chapter_exercises\Net Income Solution\Net Income Project\obj\Debug\Net_Income_Project.Resources.resources
+C:\My Documents\CLC\cit134\canvas\assignments\chapter_04\chapter_exercises\Net Income Solution\Net Income Project\obj\Debug\Net Income Project.vbproj.GenerateResource.cache
+C:\My Documents\CLC\cit134\canvas\assignments\chapter_04\chapter_exercises\Net Income Solution\Net Income Project\obj\Debug\Net Income Project.vbproj.CoreCompileInputs.cache
+C:\My Documents\CLC\cit134\canvas\assignments\chapter_04\chapter_exercises\Net Income Solution\Net Income Project\obj\Debug\Net Income Project.exe
+C:\My Documents\CLC\cit134\canvas\assignments\chapter_04\chapter_exercises\Net Income Solution\Net Income Project\obj\Debug\Net Income Project.xml
+C:\My Documents\CLC\cit134\canvas\assignments\chapter_04\chapter_exercises\Net Income Solution\Net Income Project\obj\Debug\Net Income Project.pdb
+C:\CIT 134 Intro to Programming Concepts\chapter_04\chapter_exercises\Net Income Solution\Net Income Project\bin\Debug\Net Income Project.exe.config
+C:\CIT 134 Intro to Programming Concepts\chapter_04\chapter_exercises\Net Income Solution\Net Income Project\bin\Debug\Net Income Project.exe
+C:\CIT 134 Intro to Programming Concepts\chapter_04\chapter_exercises\Net Income Solution\Net Income Project\bin\Debug\Net Income Project.pdb
+C:\CIT 134 Intro to Programming Concepts\chapter_04\chapter_exercises\Net Income Solution\Net Income Project\bin\Debug\Net Income Project.xml
+C:\CIT 134 Intro to Programming Concepts\chapter_04\chapter_exercises\Net Income Solution\Net Income Project\obj\Debug\Net Income Project.vbproj.AssemblyReference.cache
+C:\CIT 134 Intro to Programming Concepts\chapter_04\chapter_exercises\Net Income Solution\Net Income Project\obj\Debug\Net Income Project.vbproj.SuggestedBindingRedirects.cache
+C:\CIT 134 Intro to Programming Concepts\chapter_04\chapter_exercises\Net Income Solution\Net Income Project\obj\Debug\Net_Income_Project.frmMain.resources
+C:\CIT 134 Intro to Programming Concepts\chapter_04\chapter_exercises\Net Income Solution\Net Income Project\obj\Debug\Net_Income_Project.Resources.resources
+C:\CIT 134 Intro to Programming Concepts\chapter_04\chapter_exercises\Net Income Solution\Net Income Project\obj\Debug\Net Income Project.vbproj.GenerateResource.cache
+C:\CIT 134 Intro to Programming Concepts\chapter_04\chapter_exercises\Net Income Solution\Net Income Project\obj\Debug\Net Income Project.vbproj.CoreCompileInputs.cache
+C:\CIT 134 Intro to Programming Concepts\chapter_04\chapter_exercises\Net Income Solution\Net Income Project\obj\Debug\Net Income Project.exe
+C:\CIT 134 Intro to Programming Concepts\chapter_04\chapter_exercises\Net Income Solution\Net Income Project\obj\Debug\Net Income Project.xml
+C:\CIT 134 Intro to Programming Concepts\chapter_04\chapter_exercises\Net Income Solution\Net Income Project\obj\Debug\Net Income Project.pdb
