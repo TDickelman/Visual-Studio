@@ -1,0 +1,24 @@
+C:\My Documents\CLC\cit134\canvas\assignments\chapter_06\chapter_exercises\Circle Solution\Circle Project\bin\Debug\Circle Project.exe
+C:\My Documents\CLC\cit134\canvas\assignments\chapter_06\chapter_exercises\Circle Solution\Circle Project\bin\Debug\Circle Project.pdb
+C:\My Documents\CLC\cit134\canvas\assignments\chapter_06\chapter_exercises\Circle Solution\Circle Project\bin\Debug\Circle Project.xml
+C:\My Documents\CLC\cit134\canvas\assignments\chapter_06\chapter_exercises\Circle Solution\Circle Project\obj\Debug\Circle Project.vbproj.AssemblyReference.cache
+C:\My Documents\CLC\cit134\canvas\assignments\chapter_06\chapter_exercises\Circle Solution\Circle Project\obj\Debug\Circle_Project.frmMain.resources
+C:\My Documents\CLC\cit134\canvas\assignments\chapter_06\chapter_exercises\Circle Solution\Circle Project\obj\Debug\Circle_Project.Resources.resources
+C:\My Documents\CLC\cit134\canvas\assignments\chapter_06\chapter_exercises\Circle Solution\Circle Project\obj\Debug\Circle Project.vbproj.GenerateResource.cache
+C:\My Documents\CLC\cit134\canvas\assignments\chapter_06\chapter_exercises\Circle Solution\Circle Project\obj\Debug\Circle Project.vbproj.CoreCompileInputs.cache
+C:\My Documents\CLC\cit134\canvas\assignments\chapter_06\chapter_exercises\Circle Solution\Circle Project\obj\Debug\Circle Project.exe
+C:\My Documents\CLC\cit134\canvas\assignments\chapter_06\chapter_exercises\Circle Solution\Circle Project\obj\Debug\Circle Project.xml
+C:\My Documents\CLC\cit134\canvas\assignments\chapter_06\chapter_exercises\Circle Solution\Circle Project\obj\Debug\Circle Project.pdb
+C:\CIT 134 Intro to Programming Concepts\chapter_06\chapter_exercises\Circle Solution\Circle Project\bin\Debug\Circle Project.exe.config
+C:\CIT 134 Intro to Programming Concepts\chapter_06\chapter_exercises\Circle Solution\Circle Project\bin\Debug\Circle Project.exe
+C:\CIT 134 Intro to Programming Concepts\chapter_06\chapter_exercises\Circle Solution\Circle Project\bin\Debug\Circle Project.pdb
+C:\CIT 134 Intro to Programming Concepts\chapter_06\chapter_exercises\Circle Solution\Circle Project\bin\Debug\Circle Project.xml
+C:\CIT 134 Intro to Programming Concepts\chapter_06\chapter_exercises\Circle Solution\Circle Project\obj\Debug\Circle Project.vbproj.AssemblyReference.cache
+C:\CIT 134 Intro to Programming Concepts\chapter_06\chapter_exercises\Circle Solution\Circle Project\obj\Debug\Circle Project.vbproj.SuggestedBindingRedirects.cache
+C:\CIT 134 Intro to Programming Concepts\chapter_06\chapter_exercises\Circle Solution\Circle Project\obj\Debug\Circle_Project.frmMain.resources
+C:\CIT 134 Intro to Programming Concepts\chapter_06\chapter_exercises\Circle Solution\Circle Project\obj\Debug\Circle_Project.Resources.resources
+C:\CIT 134 Intro to Programming Concepts\chapter_06\chapter_exercises\Circle Solution\Circle Project\obj\Debug\Circle Project.vbproj.GenerateResource.cache
+C:\CIT 134 Intro to Programming Concepts\chapter_06\chapter_exercises\Circle Solution\Circle Project\obj\Debug\Circle Project.vbproj.CoreCompileInputs.cache
+C:\CIT 134 Intro to Programming Concepts\chapter_06\chapter_exercises\Circle Solution\Circle Project\obj\Debug\Circle Project.exe
+C:\CIT 134 Intro to Programming Concepts\chapter_06\chapter_exercises\Circle Solution\Circle Project\obj\Debug\Circle Project.xml
+C:\CIT 134 Intro to Programming Concepts\chapter_06\chapter_exercises\Circle Solution\Circle Project\obj\Debug\Circle Project.pdb
